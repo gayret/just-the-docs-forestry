@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: TEST
 nav_order: 99
 has_children: false
 
